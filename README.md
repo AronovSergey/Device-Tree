@@ -19,16 +19,17 @@ These next technologies are the ones used in this project:
 ### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 ### Prerequisites
-Packages :
 * `npm`
-* `body-parser`
-* `express`
-* `react`
-* `react-redux`
-* `redux`
-* `react-router-dom`
-* `@material-ui/core`
-* `react-d3-tree`
-* `usb-detections`
+* `Python`
 * `nodemon` (Development Dependency)
+### Setup
+* `open Command Prompt`
+* `cd device_tree_server`
+* `npm install`
+* `npm start`
+* `open new Command Prompt`
+* ``cd device_tree_client`
+* `npm install`
+* `npm install @material-ui/core`
+* `npm start`
 
