@@ -14,6 +14,7 @@ These next technologies are the ones used in this project:
 * Node.js
 * Express.js
 * usb-detections
+* Socket.IO
 
 ## Local Setting
 ### Getting Started
