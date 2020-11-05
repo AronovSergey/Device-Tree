@@ -21,14 +21,14 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 * `npm`
 * `Python`
-* `nodemon` (Development Dependency)
+* `nodemon (Development Dependency)`
 ### Setup
 * `open Command Prompt`
 * `cd device_tree_server`
 * `npm install`
 * `npm start`
 * `open new Command Prompt`
-* ``cd device_tree_client`
+* `cd device_tree_client`
 * `npm install`
 * `npm install @material-ui/core`
 * `npm start`
